@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource12.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="all.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\images\Actor01-Braver1_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\images\Actor01-Braver2_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\images\Actor01-Braver3_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\images\Actor01-Braver4_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\images\Event01-Wall01_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Actor01-Braver1_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Actor01-Braver2_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Actor01-Braver3_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Actor01-Braver4_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Wall01_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Other09_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Wall02_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Door01_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Door03_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-01_1_3_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster01-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster01-01_2_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster02-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster02-01_2_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster03-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster06-01_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-02_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-02_1_2_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-04_1_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-04_1_2_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-05_3_4_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\CA_看图王_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Item01-01_1_2_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\NPC01-07_3_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\NPC01-07_4_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster03-01_4_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\NPC01-02_4_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Transfer matrix_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Door02_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Event01-Wall02_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\Monster05-04_2_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\NPC01-01_2_1_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\images\_Monster-Slime_看图王.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="change.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
